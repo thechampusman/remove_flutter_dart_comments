@@ -1,3 +1,5 @@
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=thechampusman.remove_flutter_dart_comments)
+
 # Remove Flutter/Dart Comments
 
 A robust Python tool to remove all comments from Flutter/Dart source code files. This tool is useful for cleaning up code before publishing, sharing, or analyzing.
